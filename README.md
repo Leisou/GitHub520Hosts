@@ -34,10 +34,10 @@
 
 | 文件 | 大小 | 说明 |
 | --- | --- | --- |
-| `GitHub520Hosts（NET10）.exe` | 约 126 MB | **自包含版**，内置 .NET 10 运行时，双击即用，无需安装任何依赖 |
-| `GitHub520Hosts.exe` | 约 290 KB | **轻量版**，需先安装 [.NET 10 桌面运行时](https://dotnet.microsoft.com/download/dotnet/10.0) |
+| [GitHub520Hosts.NET10.exe](https://github.com/Leisou/GitHub520Hosts/releases/download/v1.0.0/GitHub520Hosts.NET10.exe) | 约 126 MB | **自包含版**，内置 .NET 10 运行时，双击即用，无需安装任何依赖 |
+| [GitHub520Hosts.exe](https://github.com/Leisou/GitHub520Hosts/releases/download/v1.0.0/GitHub520Hosts.exe) | 约 290 KB | **轻量版**，需先安装 [.NET 10 桌面运行时](https://dotnet.microsoft.com/download/dotnet/10.0) |
 
-两版功能完全一致，按需选择。
+两版功能完全一致，按需选择。也可在 [Releases 页面](https://github.com/Leisou/GitHub520Hosts/releases) 查看。
 
 ## 使用
 
