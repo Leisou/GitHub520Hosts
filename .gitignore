@@ -1,0 +1,35 @@
+# 含token的推送脚本与可执行文件（exe 通过 GitHub Releases 发布）
+push-to-github.bat
+*.exe
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+publish/
+publish_tmp/
+publish_sc/
+*.pdb
+*.cache
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 运行时生成的本地数据（含本机 hosts 备份与日志，请勿提交）
+backup/
+logs/
+*.log
+*.bak
+
+# 自检 / 测试临时文件
+test_hosts*
+ui_hosts*
+*.result.txt
+
+# Windows 系统文件
+Thumbs.db
+desktop.ini
